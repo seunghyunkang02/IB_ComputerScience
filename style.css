@@ -1,0 +1,123 @@
+.content{
+    font-weight: bold;
+    position: absolute;
+    left: 20px;
+    top: 270px;
+    width: 400px;
+    background-color: #fafafa;
+    border: solid 1.5px #a0a0a0;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 60px 5px 57px 5px;
+    color:#545454;
+}
+
+.content2{
+    font-weight: bold;
+    position: absolute;
+    left: 440px;
+    top: 270px;
+    width: 400px;
+    background-color: #fafafa;
+    border: solid 1.5px #a0a0a0;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 9px 5px 9px 5px;
+    color:#545454;
+}
+
+.content3{
+    font-weight: bold;
+    position: absolute;
+    left: 440px;
+    top: 380px;
+    width: 400px;
+    background-color: #fafafa;
+    border: solid 1.5px #a0a0a0;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 14px 5px 5px 5px;
+    color:#545454;
+}
+
+.content4{
+    font-weight: bold;
+    position: absolute;
+    left: 860px;
+    top: 270px;
+    width: 400px;
+    background-color: #fafafa;
+    border: solid 1.5px #a0a0a0;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px 5px 20px 5px;
+    color:#545454;
+}
+
+.content5{
+    font-weight: bold;
+    position: absolute;
+    left: 860px;
+    top: 401px;
+    width: 400px;
+    background-color: #fafafa;
+    border: solid 1.5px #a0a0a0;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 32px 5px 32px 5px;
+    color:#545454;
+}
+
+.T2{
+    font-size: 20px;
+    font-family:"Roboto", "Trebuchet MS", Helvetica;
+    color:#545454;
+}
+
+.chapter{
+    font-family:"Roboto", "Trebuchet MS", Helvetica;
+    font-size: 40px;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.syllabus{
+    font-family:"Roboto", "Trebuchet MS", Helvetica;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    color:#545454;
+}
+
+.chapter2{
+    font-family:"Roboto", "Trebuchet MS", Helvetica;
+    padding-left: 45px;
+    padding-right: 10px;
+    padding-bottom: 35px;
+    font-size: 18px;
+}
+
+.dp{
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    color: #545454;
+}
+
+a:visited{
+    color: #545454;
+}
+
+a:hover{
+    color:red;                  
+}
+
